@@ -1,3 +1,3 @@
 #clipped polygon area
 
-Very simply (prototype) module to compute the area of a polygon clipped to a half-plane. Useful for doing natural neighbour interpolation.
+Very simple (prototype) module to compute the area of a polygon clipped to a half-plane. Useful for doing natural neighbour interpolation.
