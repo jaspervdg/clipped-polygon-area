@@ -1,0 +1,15 @@
+{
+  "name": "clipped-polygon-area",
+  "version": "1.0.4",
+  "description": "",
+  "main": "area.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jasper van de Gronde",
+  "license": "MIT",
+  "dependencies": {
+    "area-polygon": "^1.0.1",
+    "polygon": "^1.0.2"
+  }
+}
